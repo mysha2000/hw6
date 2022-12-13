@@ -1,0 +1,35 @@
+body {
+    background-color: burlywood;
+    border-spacing: 20px;
+    border-color: saddlebrown;
+    text-align: center;
+      }
+
+svg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+h1 {
+  color: saddlebrown;
+  font-family: "Papyrus";
+  font-size:  60px;
+    }
+p {
+  color: saddlebrown;
+  font-family: "Papyrus";
+  font-size: 40px;
+    }
+
+a {
+  color: saddlebrown;
+  font-family: "Papyrus";
+  font-size: 20px;
+  }
+
+li {
+    color: saddlebrown;
+    font-family: "Papyrus";
+    font-size: 20px;
+    }
